@@ -7,6 +7,10 @@ android {
     namespace 'com.vagif_tagiyev.retrofitapiapp'
     compileSdk 32
 
+    buildFeatures{
+        viewBinding true
+    }
+
     defaultConfig {
         applicationId "com.vagif_tagiyev.retrofitapiapp"
         minSdk 24

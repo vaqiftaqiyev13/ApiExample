@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RetrofitApiApp</string>
+    <string name="get_request">Get Request</string>
 </resources>
